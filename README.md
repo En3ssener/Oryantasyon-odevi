@@ -1,4 +1,4 @@
-# Oryantasyon-ödevi
+# Oryantasyon-odevi
 SORULAR
 1- 1’den 25’e kadar tek sayıları yazdıran algoritma ve akış diyagramını ciziniz
 2- ax²+bx+c=0 şeklinde verilen 2. derece denklemin köklerini bulan programın akış diyagramını çizin
